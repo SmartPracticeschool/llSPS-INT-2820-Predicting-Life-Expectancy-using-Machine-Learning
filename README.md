@@ -4,6 +4,9 @@ Predicting Life Expectancy using Machine Learning
 video on presentation
 https://drive.google.com/file/d/1pPoBq9ZevF6UzGyD_H4aEaGxegTdnpTy/view?usp=sharing
 
-video on feedback
+Video on testimonial with face
+https://drive.google.com/file/d/1KrOTIVi4zGqG9HZWliZtyVI4fCwbWD5e/view?usp=drivesdk
+
+video on feedback without face
 https://drive.google.com/file/d/1VgIJ8QIhKsU9SJHC4wdxzdccH72YxgKW/view?usp=sharing
 
